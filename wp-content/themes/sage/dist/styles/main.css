@@ -7711,32 +7711,32 @@ body#tinymce {
 
 @font-face {
     font-family: Montserrat Bold;
-    src: url(../fonts/Montserrat-Bold.eot?) format("eot"), url(../fonts/Montserrat-Bold.ttf) format("truetype")
+    src: url(https://sanctuaries.marinebon.org/wp-content/themes/sage/dist/fonts/Montserrat-Bold.eot?) format("eot"), url(../fonts/Montserrat-Bold.ttf) format("truetype")
 }
 
 @font-face {
     font-family: Montserrat Regular;
-    src: url(../fonts/Montserrat-Regular.eot?) format("eot"), url(../fonts/Montserrat-Regular.ttf) format("truetype")
+    src: url(https://sanctuaries.marinebon.org/wp-content/themes/sage/dist/fonts/Montserrat-Regular.eot?) format("eot"), url(../fonts/Montserrat-Regular.ttf) format("truetype")
 }
 
 @font-face {
     font-family: OpenSans Regular;
-    src: url(../fonts/OpenSans-Regular.eot?) format("eot"), url(../fonts/OpenSans-Regular.ttf) format("truetype")
+    src: url(https://sanctuaries.marinebon.org/wp-content/themes/sage/dist/fonts/OpenSans-Regular.eot?) format("eot"), url(../fonts/OpenSans-Regular.ttf) format("truetype")
 }
 
 @font-face {
     font-family: OpenSans Bold;
-    src: url(../fonts/OpenSans-Bold.eot?) format("eot"), url(../fonts/OpenSans-Bold.ttf) format("truetype")
+    src: url(https://sanctuaries.marinebon.org/wp-content/themes/sage/dist/fonts/OpenSans-Bold.eot?) format("eot"), url(../fonts/OpenSans-Bold.ttf) format("truetype")
 }
 
 @font-face {
     font-family: OpenSans Semibold;
-    src: url(../fonts/OpenSans-Semibold.eot?) format("eot"), url(../fonts/OpenSans-Semibold.ttf) format("truetype")
+    src: url(https://sanctuaries.marinebon.org/wp-content/themes/sage/dist/fonts/OpenSans-Semibold.eot?) format("eot"), url(../fonts/OpenSans-Semibold.ttf) format("truetype")
 }
 
 @font-face {
     font-family: OpenSans Italic;
-    src: url(../fonts/OpenSans-Italic.eot?) format("eot"), url(../fonts/OpenSans-Italic.ttf) format("truetype")
+    src: url(https://sanctuaries.marinebon.org/wp-content/themes/sage/dist/fonts/OpenSans-Italic.eot?) format("eot"), url(../fonts/OpenSans-Italic.ttf) format("truetype")
 }
 
 a,
